@@ -1,0 +1,15 @@
+[submodule "android_camera_muxer"]
+	path = android_camera_muxer
+	url = https://github.com/IAmCodingCoding/android_camera_muxer.git
+[submodule "format_factory"]
+	path = format_factory
+	url = https://github.com/IAmCodingCoding/format_factory.git
+[submodule "live"]
+	path = live
+	url = https://github.com/IAmCodingCoding/live.git
+[submodule "row_data_encoder"]
+	path = row_data_encoder
+	url = https://github.com/IAmCodingCoding/row_data_encoder.git
+[submodule "simple_palyer"]
+	path = simple_palyer
+	url = https://github.com/IAmCodingCoding/simple_palyer.git
